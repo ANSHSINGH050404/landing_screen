@@ -11,7 +11,7 @@ export const AccountScreen = () => {
         email: email,
         bio: bio,
       });
-    
+  
 
     
       return (
